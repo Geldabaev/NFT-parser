@@ -168,7 +168,7 @@ def excel_loader(row, title, price, result_offers):
 
 
 
-TOKEN = "5343804192:AAFeShoVkV97qgxI_n1ISmcIi4Kis9s8znA"
+TOKEN = "your token from bot telegram"
 
 storage = MemoryStorage()
 
